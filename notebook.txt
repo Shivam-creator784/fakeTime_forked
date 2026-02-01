@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #learning git(adding new feature).
 #learnig github
+=======
+#learning git
+>>>>>>> 99909e8095448f8d67b73c50bc49060f85cf7232
 
 
 
